@@ -1,3 +1,3 @@
-# Projto para aprender React #
+# Projeto para aprender React #
 
 >http://MRSS02.github.io
