@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ICANDOANYTHING/static/css/main.cea621a7.chunk.css",
+    "main.css": "/ICANDOANYTHING/static/css/main.332c48f1.chunk.css",
     "main.js": "/ICANDOANYTHING/static/js/main.f71d47f1.chunk.js",
     "main.js.map": "/ICANDOANYTHING/static/js/main.f71d47f1.chunk.js.map",
     "runtime-main.js": "/ICANDOANYTHING/static/js/runtime-main.26ee9af1.js",
@@ -8,15 +8,15 @@
     "static/js/2.4164c1d3.chunk.js": "/ICANDOANYTHING/static/js/2.4164c1d3.chunk.js",
     "static/js/2.4164c1d3.chunk.js.map": "/ICANDOANYTHING/static/js/2.4164c1d3.chunk.js.map",
     "index.html": "/ICANDOANYTHING/index.html",
-    "precache-manifest.51a8cf6b354407bc708c52807d521354.js": "/ICANDOANYTHING/precache-manifest.51a8cf6b354407bc708c52807d521354.js",
+    "precache-manifest.95c646bd50ddb773018ca56bb5be7265.js": "/ICANDOANYTHING/precache-manifest.95c646bd50ddb773018ca56bb5be7265.js",
     "service-worker.js": "/ICANDOANYTHING/service-worker.js",
-    "static/css/main.cea621a7.chunk.css.map": "/ICANDOANYTHING/static/css/main.cea621a7.chunk.css.map",
+    "static/css/main.332c48f1.chunk.css.map": "/ICANDOANYTHING/static/css/main.332c48f1.chunk.css.map",
     "static/js/2.4164c1d3.chunk.js.LICENSE.txt": "/ICANDOANYTHING/static/js/2.4164c1d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26ee9af1.js",
     "static/js/2.4164c1d3.chunk.js",
-    "static/css/main.cea621a7.chunk.css",
+    "static/css/main.332c48f1.chunk.css",
     "static/js/main.f71d47f1.chunk.js"
   ]
 }
