@@ -1,3 +1,1 @@
-# Projeto para aprender React #
-
->http://MRSS02.github.io
+https://mrss02.github.io/ICANDOANYTHING/
